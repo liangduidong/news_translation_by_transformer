@@ -1,0 +1,2 @@
+# news_translation_by_transformer
+只用于实现新闻方面的中英文翻译
